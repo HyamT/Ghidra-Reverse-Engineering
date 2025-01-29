@@ -1,0 +1,5 @@
+FADD:/NewFolder
+IADD:00000001:/ghidra_password_checker.exe
+IDSET:/ghidra_password_checker.exe:c0a8381c7d66904172885300
+IADD:00000002:/ghidra_password_checker.exe.1
+IDSET:/ghidra_password_checker.exe.1:c0a8381c7df7100912513000
